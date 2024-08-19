@@ -1,4 +1,9 @@
 <h2 align="center"> Hi 👋<br /> My name is Yitzhak and I'm <br /> a Student for Computer science at RUNI </h2>
+<p>
+🎯 My goal is to make the world better
+🌍 By use tech and computer :)
+🌱 I’m currently study my bachlor degree 
+</p>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yitzhak-bar-or-%D7%91%D7%A8-%D7%90%D7%95%D7%A8-%D7%99%D7%A6%D7%97%D7%A7-243a51221/) 
