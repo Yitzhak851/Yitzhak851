@@ -1,8 +1,8 @@
 <h2 align="center"> Hi 👋<br /> My name is Yitzhak and I'm <br /> a Student for Computer science at RUNI </h2>
 <p>
-🎯 My goal is to make the world better
-🌍 By use tech and computer :)
-🌱 I’m currently study my bachlor degree 
+🎯 My goal is to make the world better <br>
+🌍 By use tech and computer :) <br>
+🌱 I’m currently study my bachlor degree <br>
 </p>
 
 # 🌐 Socials:
